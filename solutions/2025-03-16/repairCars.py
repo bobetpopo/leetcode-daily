@@ -37,7 +37,7 @@ class Solution:
 # Time: O(n + max_rank * log(max_rank))
 # Space: O(n) -> used by freq array
 # Notes: Binary search on smallest possible time: set low to 1 and high to maxRank * cars^2, keep searching until 
-#        low == high, at which point you are sure to have found the smallest time possible.
+#        low == high, at which point you are sure to have found the smallest time possible.~
 
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
