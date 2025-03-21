@@ -8,3 +8,5 @@
 - **March 18, 2025**: 2401. Longest Nice Subarray (Medium)
 - **March 19, 2025**: 3191. Minimum Operations to Make Binary Array Elements Equal to One I (Medium)
 - **March 20, 2025**: 3108. Minimum Cost Walk in Weighted Graph (Hard)
+- **March 21, 2025**: 2115. Find All Possible Recipes from Given Supplies (Medium)
+
