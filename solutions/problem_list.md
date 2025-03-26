@@ -10,4 +10,4 @@
 - **March 20, 2025**: 3108. Minimum Cost Walk in Weighted Graph (Hard)
 - **March 21, 2025**: 2115. Find All Possible Recipes from Given Supplies (Medium)
 - **March 25, 2025**: 3394. Check if Grid can be Cut into Sections (Medium)
-
+- **March 26, 2025**: 2033. Minimum Operations to Make a Uni-Value Grid (Medium)
