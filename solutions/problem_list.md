@@ -11,3 +11,4 @@
 - **March 21, 2025**: 2115. Find All Possible Recipes from Given Supplies (Medium)
 - **March 25, 2025**: 3394. Check if Grid can be Cut into Sections (Medium)
 - **March 26, 2025**: 2033. Minimum Operations to Make a Uni-Value Grid (Medium)
+- **March 27, 2025**: 2780. Minimum Index of a Valid Split (Medium)
