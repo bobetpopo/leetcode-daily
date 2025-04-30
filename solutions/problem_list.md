@@ -12,3 +12,4 @@
 - **March 25, 2025**: 3394. Check if Grid can be Cut into Sections (Medium)
 - **March 26, 2025**: 2033. Minimum Operations to Make a Uni-Value Grid (Medium)
 - **March 27, 2025**: 2780. Minimum Index of a Valid Split (Medium)
+- **April 30, 2025**: 1295. Find Numbers with Even Number of Digits (Easy)
